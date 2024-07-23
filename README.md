@@ -1,5 +1,5 @@
 # cordova_app
-2 Applications CORDOVA :
+Ce repository contient 2 Applications CORDOVA développés dans le cadre du cours d'Application Mobile :
 ## 1- Todolist_app :
 Notre application To-Do, développée avec Cordova, simplifie la gestion des tâches :
 
